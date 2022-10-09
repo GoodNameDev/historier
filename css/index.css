@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(32,32,32);
+}
+b#beta {
+  font-size: 50px;
+  color: rgb(255, 0, 0);
+}
+.choose {
+  font-size: 25px;
+}
