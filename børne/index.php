@@ -14,5 +14,12 @@ include '../config.php'
     <b id="beta"><?php if ($devmode == True) {
       print "The site is currently in dev mode, the version is " . $pagevertion;
     } ?></b>
+    <form action="test.php" method="POST">
+      <label for="fname">Første børne navn:</label><br>
+      <input type="text" id="fname" name="fname" value=""><br>
+      <label for="aname">Andet børne navn:</label><br>
+      <input type="text" id="aname" name="aname" value=""><br><br>
+      <input type="submit" value="Submit">
+    </form>
   </body>
 </html>
