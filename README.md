@@ -1,2 +1,2 @@
-- [ ] Lav et nav system på hjemmeskærmen
+- [x] Lav et nav system på hjemmeskærmen
 - [ ] Find ud af at bruge variabler gennem url fx. http://localhost:8000/sjov.php?first=Frida?seccond=Søren
